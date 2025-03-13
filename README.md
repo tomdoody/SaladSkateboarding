@@ -1,5 +1,9 @@
 # Salad Skateboarding
 
+## Privacy and policy
+This app does not include contests or sweepstakes. All users receive equal rewards for valid submissions. 
+Apple is not a sponsor of any challenges or rewards.
+
 ## Terms and Conditions
 
 <h2>End-User License Agreement (EULA) of <span class="app_name">Salad SB</span></h2>
